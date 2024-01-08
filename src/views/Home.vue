@@ -1,7 +1,7 @@
 <template>
-  <LayoutScreen />
+    <hacker-news />
 </template>
 
 <script lang="ts" setup>
-  import LayoutScreen from '@/components/LayoutScreen.vue'
+import HackerNews from "@/components/HackerNews.vue";
 </script>
